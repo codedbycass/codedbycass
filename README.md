@@ -10,7 +10,7 @@
 
 📧 Let's collaborate: [Email Me](cassandramanotham@gmail.com) 
 
-💭 I have an academic background in English & Environmental Studies and experience in social work; I approach writing code with the same skills– putting people first, thinking critically thinking, writing clean syntax, and always aspiring towards effective communication.
+💭 I have experience in social work and an academic background in English & Environmental Studies. I approach writing code with the same skills– putting people first, thinking critically, writing clean syntax, and aspiring towards effective communication.
 
 🧠 I am skilled at problem solving and leveraging available resources to reach creative solutions. 
 
