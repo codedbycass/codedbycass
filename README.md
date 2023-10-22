@@ -14,7 +14,7 @@
 
 🧠 I am skilled at problem solving and leveraging available resources to reach creative solutions. 
 
-👁️ My goal is to build programs and applications that benefit all users: immigrants, refugees, elders, and youth.
+👁️ My goal is to build programs and applications that benefit all users including immigrants, refugees, elders, and youth.
 
 🤝 If you are a small business or community based organization in need of a site or program, let's connect! I'd love to help you.
 
