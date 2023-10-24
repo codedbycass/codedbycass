@@ -2,6 +2,8 @@
 
 ## I'm a full stack engineer, designer, and community worker
 
+<img width="250" align="right" alt="cassandra smiling in front of a fig tree" src="https://github.com/codedbycass/codedbycass/assets/122684139/9bc78294-9b06-4ab9-bf3f-b5c0f1e325b6">
+
 📍 Based in Philadelphia
 
 ⚙️ Open to full time roles & freelance work! 
