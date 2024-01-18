@@ -4,11 +4,9 @@
 
 📍 Based in Philadelphia
 
-⚙️ Open to full time roles & freelance work! 
-
 🌟 I'm passionate about digital equity, accessibility, and design. See my latest work on my [Portfolio](https://codedbycass.netlify.app/).
 
-📧 Let's collaborate: [Email Me](cassandramanotham@gmail.com) 
+📧 Open to full time roles & freelance work! Let's collaborate: [Email Me](cassandramanotham@gmail.com) 
 
 💭 I have experience in social work and an academic background in English & Environmental Studies. I approach writing code with the same skills– putting people first, thinking critically, writing clean syntax, and aspiring towards effective communication.
 
