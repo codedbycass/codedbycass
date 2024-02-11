@@ -18,8 +18,8 @@
 
 ## Currently working on:
 - A podcast website for a client
-- A full stack api using the MERN stack, voice memo API's, and data visualization that allows users to document their days and see their habits in retrospect. It's not a habit tracker app, but an application to gathers data points on yourself to see your daily habits "as is."
-- Community building with fellow WOC developers in the Philadelphia area!
+- A full stack api using the MERN stack, voice memo API's, and data visualization that allows users to document their days and see their habits in retrospect. It's not a habit tracker app, but more of a self-reflection app that emphasizes documenting your day and gathering data points on yourself to learn about your habitual/unconscious habits better!
+- Community building with fellow WOC developers in the Philadelphia area! [Connect with me to learn more](cassandramanotham@gmail.com)
 
 ## Skills
 → Programming languages: JavaScript (ES6)
