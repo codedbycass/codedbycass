@@ -16,13 +16,17 @@
 
 🤝 If you are a small business or community based organization in need of a site or program, let's connect! I'd love to help you.
 
+## Currently working on:
+- A podcast website for a client
+- A full stack api using the MERN stack, voice memo API's, and data visualization that allows users to document their days and see their habits in retrospect. It's not a habit tracker app, but an application to gathers data points on yourself to see your daily habits "as is."
+- Community building with fellow WOC developers in the Philadelphia area!
 
 ## Skills
-→ Programming languages: JavaScript
+→ Programming languages: JavaScript (ES6)
 
 → Frontend: HTML, CSS, React.js
 
-→ Backend: Node.js
+→ Backend: Node.js, Express
 
 → Database: MongoDB
 
