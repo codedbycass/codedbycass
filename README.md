@@ -8,13 +8,8 @@
 
 📧 Open to full time roles & freelance work! Let's collaborate: [Email Me](cassandramanotham@gmail.com) 
 
-💭 I have experience in social work and an academic background in English & Environmental Studies. I approach writing code with the same skills– putting people first, thinking critically, writing clean syntax, and aspiring towards effective communication.
+💭 I have experience in social work and an academic background in English & Environmental Studies. I approach writing code with the same skills– putting people first, thinking critically, writing clean syntax, and communicating effectively.
 
-🧠 I am skilled at problem solving and leveraging available resources to reach creative solutions. 
-
-👁️ My goal is to build programs and applications that benefit all users including immigrants, refugees, elders, and youth.
-
-🤝 If you are a small business or community based organization in need of a site or program, let's connect! I'd love to help you.
 
 ## Currently working on:
 - A podcast website for a client
